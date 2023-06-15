@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Core Java, Data Strcture**
+- 💬 Ask me about **HTML, CSS, JavaScript, Core Java, Data Structure**
 
 - 📫 How to reach me **vinaysaini7988@gmail.com**
 
